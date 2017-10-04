@@ -3,4 +3,4 @@ Mitt första repository
 
 
 Hello Humans!
-Det är bla bla bla inte såm ycket att läsa.
+Det är bla bla bla inte så mycket att läsa.
